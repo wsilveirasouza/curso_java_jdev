@@ -1,5 +1,7 @@
-Github Course
+Curso de Java Full Stack
 
-Arquivo da aula de git e github para iniciantes
+Incluso: Github - Versionamento de projeto
 
-Este repositório faz parte do curso de git e github
+Este repositório faz parte do curso:
+  
+   Java Full Stack - GIT e GITHUB
